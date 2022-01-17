@@ -1,0 +1,123 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "SimpleShoter (Debug)",
+            "request": "launch",
+            "preLaunchTask": "SimpleShoter Win64 Debug Build",
+            "program": "D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+            "args": [],
+            "cwd": "D:\\Program Files\\Epic Games\\UE_4.26",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "newExternalWindow"
+        },
+        {
+            "name": "SimpleShoter (DebugGame)",
+            "request": "launch",
+            "preLaunchTask": "SimpleShoter Win64 DebugGame Build",
+            "program": "D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+            "args": [],
+            "cwd": "D:\\Program Files\\Epic Games\\UE_4.26",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "newExternalWindow"
+        },
+        {
+            "name": "SimpleShoter (Development)",
+            "request": "launch",
+            "preLaunchTask": "SimpleShoter Win64 Development Build",
+            "program": "D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\Binaries\\Win64\\UE4.exe",
+            "args": [],
+            "cwd": "D:\\Program Files\\Epic Games\\UE_4.26",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "newExternalWindow"
+        },
+        {
+            "name": "SimpleShoter (Shipping)",
+            "request": "launch",
+            "preLaunchTask": "SimpleShoter Win64 Shipping Build",
+            "program": "D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+            "args": [],
+            "cwd": "D:\\Program Files\\Epic Games\\UE_4.26",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "newExternalWindow"
+        },
+        {
+            "name": "SimpleShoter (Test)",
+            "request": "launch",
+            "preLaunchTask": "SimpleShoter Win64 Test Build",
+            "program": "D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\Binaries\\Win64\\UE4-Win64-Test.exe",
+            "args": [],
+            "cwd": "D:\\Program Files\\Epic Games\\UE_4.26",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "newExternalWindow"
+        },
+        {
+            "name": "SimpleShoterEditor (Debug)",
+            "request": "launch",
+            "preLaunchTask": "SimpleShoterEditor Win64 Debug Build",
+            "program": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+            "args": [
+                "D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\SimpleShoter.uproject"
+            ],
+            "cwd": "D:\\Program Files\\Epic Games\\UE_4.26",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "newExternalWindow"
+        },
+        {
+            "name": "SimpleShoterEditor (DebugGame)",
+            "request": "launch",
+            "preLaunchTask": "SimpleShoterEditor Win64 DebugGame Build",
+            "program": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+            "args": [
+                "D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\SimpleShoter.uproject"
+            ],
+            "cwd": "D:\\Program Files\\Epic Games\\UE_4.26",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "newExternalWindow"
+        },
+        {
+            "name": "SimpleShoterEditor (Development)",
+            "request": "launch",
+            "preLaunchTask": "SimpleShoterEditor Win64 Development Build",
+            "program": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+            "args": [
+                "D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\SimpleShoter.uproject"
+            ],
+            "cwd": "D:\\Program Files\\Epic Games\\UE_4.26",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "newExternalWindow"
+        },
+        {
+            "name": "Generate Project Files",
+            "type": "clr",
+            "request": "launch",
+            "program": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+            "console": "externalTerminal",
+            "args": [
+                "-projectfiles",
+                "-vscode",
+                "-project=D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\SimpleShoter.uproject",
+                "-game",
+                "-engine"
+            ],
+            "internalConsoleOptions": "openOnSessionStart",
+            "cwd": "D:\\Program Files\\Epic Games\\UE_4.26"
+        }
+    ]
+}

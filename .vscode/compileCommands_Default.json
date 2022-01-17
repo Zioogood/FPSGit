@@ -1,0 +1,117 @@
+[
+    {
+        "file": "D:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\SimpleShoter\\\\Source\\\\SimpleShoter\\\\SimpleShoter.Build.cs",
+        "command": "cl.exe @\"D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\.vscode\\compileCommands_Default\\SimpleShoter.182.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\SimpleShoter\\\\Source\\\\SimpleShoter\\\\SimpleShoter.cpp",
+        "command": "cl.exe @\"D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\.vscode\\compileCommands_Default\\SimpleShoter.182.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\SimpleShoter\\\\Source\\\\SimpleShoter\\\\SimpleShoter.h",
+        "command": "cl.exe @\"D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\.vscode\\compileCommands_Default\\SimpleShoter.182.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\SimpleShoter\\\\Source\\\\SimpleShoter\\\\SimpleShoterGameModeBase.cpp",
+        "command": "cl.exe @\"D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\.vscode\\compileCommands_Default\\SimpleShoter.182.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\SimpleShoter\\\\Source\\\\SimpleShoter\\\\SimpleShoterGameModeBase.h",
+        "command": "cl.exe @\"D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\.vscode\\compileCommands_Default\\SimpleShoter.182.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\SimpleShoter\\\\Source\\\\SimpleShoter\\\\ShooterCharacter.cpp",
+        "command": "cl.exe @\"D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\.vscode\\compileCommands_Default\\SimpleShoter.182.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\SimpleShoter\\\\Source\\\\SimpleShoter\\\\ShooterCharacter.h",
+        "command": "cl.exe @\"D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\.vscode\\compileCommands_Default\\SimpleShoter.182.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\SimpleShoter\\\\Source\\\\SimpleShoter\\\\Gun.h",
+        "command": "cl.exe @\"D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\.vscode\\compileCommands_Default\\SimpleShoter.182.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\SimpleShoter\\\\Source\\\\SimpleShoter\\\\Gun.cpp",
+        "command": "cl.exe @\"D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\.vscode\\compileCommands_Default\\SimpleShoter.182.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\SimpleShoter\\\\Source\\\\SimpleShoter\\\\ShooterAIController.h",
+        "command": "cl.exe @\"D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\.vscode\\compileCommands_Default\\SimpleShoter.182.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\SimpleShoter\\\\Source\\\\SimpleShoter\\\\ShooterAIController.cpp",
+        "command": "cl.exe @\"D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\.vscode\\compileCommands_Default\\SimpleShoter.182.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\SimpleShoter\\\\Source\\\\SimpleShoter\\\\BTTask_Shoot.h",
+        "command": "cl.exe @\"D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\.vscode\\compileCommands_Default\\SimpleShoter.182.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\SimpleShoter\\\\Source\\\\SimpleShoter\\\\BTTask_Shoot.cpp",
+        "command": "cl.exe @\"D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\.vscode\\compileCommands_Default\\SimpleShoter.182.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\SimpleShoter\\\\Source\\\\SimpleShoter\\\\BTTask_ClearBlackBoardValue.h",
+        "command": "cl.exe @\"D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\.vscode\\compileCommands_Default\\SimpleShoter.182.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\SimpleShoter\\\\Source\\\\SimpleShoter\\\\BTTask_ClearBlackBoardValue.cpp",
+        "command": "cl.exe @\"D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\.vscode\\compileCommands_Default\\SimpleShoter.182.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\SimpleShoter\\\\Source\\\\SimpleShoter\\\\BTService_PlayerLocation.cpp",
+        "command": "cl.exe @\"D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\.vscode\\compileCommands_Default\\SimpleShoter.182.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\SimpleShoter\\\\Source\\\\SimpleShoter\\\\BTService_PlayerLocation.h",
+        "command": "cl.exe @\"D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\.vscode\\compileCommands_Default\\SimpleShoter.182.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\SimpleShoter\\\\Source\\\\SimpleShoter\\\\BTService_PlayerLocationIfSee.h",
+        "command": "cl.exe @\"D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\.vscode\\compileCommands_Default\\SimpleShoter.182.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\SimpleShoter\\\\Source\\\\SimpleShoter\\\\BTService_PlayerLocationIfSee.cpp",
+        "command": "cl.exe @\"D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\.vscode\\compileCommands_Default\\SimpleShoter.182.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\SimpleShoter\\\\Source\\\\SimpleShoter\\\\KillEmAllGameMode.cpp",
+        "command": "cl.exe @\"D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\.vscode\\compileCommands_Default\\SimpleShoter.182.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\SimpleShoter\\\\Source\\\\SimpleShoter\\\\KillEmAllGameMode.h",
+        "command": "cl.exe @\"D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\.vscode\\compileCommands_Default\\SimpleShoter.182.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\SimpleShoter\\\\Source\\\\SimpleShoter\\\\ShooterPlayerController.h",
+        "command": "cl.exe @\"D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\.vscode\\compileCommands_Default\\SimpleShoter.182.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Users\\\\user\\\\Documents\\\\Unreal Projects\\\\SimpleShoter\\\\Source\\\\SimpleShoter\\\\ShooterPlayerController.cpp",
+        "command": "cl.exe @\"D:\\Users\\user\\Documents\\Unreal Projects\\SimpleShoter\\.vscode\\compileCommands_Default\\SimpleShoter.182.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+    }
+]
