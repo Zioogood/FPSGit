@@ -1,6 +1,3 @@
-# Project MarsMarine
+# Project SimpleShooter
 
-This is a blueprint project that was created along with the Udemy course.
-The aim of the project is to show mechanics that I know, such as desing level, spawn point control or AI behavior.
-In the presented project, I focused mainly on gameplay mechanics.
-Simple game in which waves of opponents appear successively and our task is to defeat them and move to the next level.
+This is a project based on a completed Udemy course. The presented game is created in C ++, we have here the addition of AI mechanics, the behavior tree, in the project, the opponents, after seeing the hero, move towards it and attack it within a certain period of time, when the hero disappears from their sight, they return to their initial position.
